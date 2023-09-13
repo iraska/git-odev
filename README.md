@@ -12,7 +12,7 @@ Birden çok dosyada yapılan değişiklikleri tek bir commit içinde toplamak i�
 
 ## Commit Mesajlarının Önemi:
 Commit mesajları, projenizin geçmişini belgelemek ve anlamak için önemlidir. İyi bir commit mesajı yazmak için şunlara dikkat edin:
-   - *Kısa ve açıklayıcı olun.
+   - *Kısa ve açıklayıcı olun.*
    - Değişikliklerin neyi etkilediğini belirtin.
    - İlgili bir dil kullanın ve düzenli yazmaya özen gösterin.*
 
