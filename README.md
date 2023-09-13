@@ -5,7 +5,7 @@ Commit, bir versiyon kontrol sistemi (örneğin, Git) kullanılarak yapılan bir
 ## Commit Nasıl Yapılır?
 Bir değişikliği commit etmek için aşağıdaki adımları izleyebilirsiniz:
    - Değişiklikleri stage'e eklemek için **`git add`** komutunu kullanın: `git add dosya_adı` veya **`git add .`** (tüm değişiklikleri ekler).
-   - Commit işlemini gerçekleştirmek için **`git commit`** komutunu kullanın ve bir commit mesajı ekleyin: `**git commit -m "Commit mesajı"**`
+   - Commit işlemini gerçekleştirmek için **`git commit`** komutunu kullanın ve bir commit mesajı ekleyin: **`git commit -m "Commit mesajı"`**
 
 ## Birden Fazla Dosyanın Commit Edilmesi:
 Birden çok dosyada yapılan değişiklikleri tek bir commit içinde toplamak için, önce tüm değişiklikleri stage'e ekleyin (`git add`) ve ardından `git commit` komutunu kullanarak commit işlemini gerçekleştirin. Bu, tüm staged dosyaları tek bir commit altında birleştirir.
